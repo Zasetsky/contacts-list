@@ -1,24 +1,21 @@
-# contacts-list
+# Contacts List
 
-## Project setup
-```
-npm install
-```
+Это приложение, разработанное с использованием Vue.js и TypeScript, представляет собой простой список контактов. Пользователи могут добавлять, редактировать и удалять контакты.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Установка
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1. Клонируйте репозиторий с помощью `git clone`.
+2. Установите зависимости с помощью `npm install`.
+3. Запустите приложение с помощью `npm run serve`.
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Скрипты
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- `npm run serve`: запускает сервер разработки.
+- `npm run build`: собирает приложение для продакшн.
+- `npm run lint`: запускает линтер.
+
+## Зависимости
+
+- Vue.js
+- TypeScript
+- Sass
